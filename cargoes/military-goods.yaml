@@ -1,0 +1,17 @@
+abbreviation: NE
+available: false
+classes: 32
+colour: 1
+id: 0
+label: NEWC
+longName: military goods
+name: Military Goods
+penaltyLength: 247
+penaltyLowerBound: 8
+price: 411206
+sprite:
+  filename: cargoes/military-goods.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16

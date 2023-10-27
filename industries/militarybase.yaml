@@ -1,0 +1,28 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- NEWC
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 1
+layout:
+- - - 0
+name: MilitaryBase
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/militarybase/1.png
+      left: -29
+      top: -2
+type: tertiary
